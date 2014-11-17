@@ -3,7 +3,7 @@ Android training project 2: Instagram Photo Viewer
 
 This is an Android application for an Instagram photo viewer client. User can check out popular photos on Instagram.
 
-Time spent: 4 hours spent on basic requirements. (0 hour spent on optional ones. Was busy on other stuff, my apologies.)
+Time spent: 4 hours spent on basic requirements.
 
 Completed user stories:
 
